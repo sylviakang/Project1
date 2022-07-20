@@ -1,0 +1,8 @@
+C:\Users\Sylvia\Desktop\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Sylvia\Desktop\Project1\Debug\Project1.MyForm.resources
+C:\Users\Sylvia\Desktop\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Sylvia\Desktop\Project1\Debug\Project1.exe
+C:\Users\Sylvia\Desktop\丙級第二套\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Sylvia\Desktop\丙級第二套\Project1\Debug\Project1.MyForm.resources
+C:\Users\Sylvia\Desktop\丙級第二套\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Sylvia\Desktop\丙級第二套\Project1\Debug\Project1.exe
